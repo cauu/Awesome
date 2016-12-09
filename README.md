@@ -1,2 +1,3 @@
 # Awesome
-Awesome projects
+Awesome projects on github.
+
